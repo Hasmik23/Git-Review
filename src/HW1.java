@@ -12,7 +12,7 @@ public class HW1 {
 
          if (height < 60) {
              System.out.println("short");
-         }else if (height > 60 && height < 72){
+         }else if (height > 60 && height <pwd 72){
              System.out.println("medium");
          }else if (height > 70) {
              System.out.println("tall");
